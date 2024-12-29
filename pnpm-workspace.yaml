@@ -1,0 +1,4 @@
+packages:
+  - './*'
+  - '!**/test/**'
+  - '!**/node_modules'
