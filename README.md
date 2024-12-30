@@ -6,6 +6,6 @@
 
 - React 19 안정화에 따른 훅 연습
 
-## react-native
+## react-native-practice
 
 - React Native 연습
